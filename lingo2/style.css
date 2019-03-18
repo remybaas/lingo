@@ -1,0 +1,33 @@
+body{
+  width: 420px;
+  margin: 0 auto;
+  margin-top: 20px;
+  background-image: url('./img/bg.jpg');
+  
+}
+.tblBody{
+  background-color: lightgrey;
+  font-size: 30px;
+  text-align: center;
+}
+.guess{
+  width: 200px;
+}
+.input{
+  width: 85px;
+  margin-top: 25px;
+}
+.titel {
+  text-align: center;
+}
+.msg{
+  text-align: center;
+  font-size: 14px;
+}
+.red{
+  background-color: red;
+}
+.yellow{
+  background-color: yellow;
+  border-radius: 50%;
+}
